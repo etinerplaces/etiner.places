@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "etiner-places",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -27,8 +27,8 @@
           "_params": {
             "showMeta": true
           },
-          "title": "Descuentos exclusivo para viajer@s Etiner💎",
-          "meta": "Sólo muestra tu grupo de whatsapp Etiner al momento de llegar al lugar <br>y te harán efectivo el beneficio",
+          "title": "Descuentos exclusivo para viajer@s Etiner💸",
+          "meta": "Sólo muestra tu grupo de whatsapp Etiner al momento de llegar al lugar <br>y te harán efectivo el beneficio ☝🏽",
           "_tags": [
             "Theme"
           ],
@@ -181,10 +181,10 @@
             "showSubheader": false,
             "showImages": true,
             "showTitles": true,
-            "showCaptions": true,
+            "showCaptions": false,
             "showButtons": false,
             "paddingTop": "0",
-            "paddingBottom": 3,
+            "paddingBottom": "1",
             "columns": "2",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -205,9 +205,12 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "images/bootstrap.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2019-12-01-at-01.23.23-405x340.png",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -225,9 +228,12 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "images/responsive.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2019-12-01-at-01.25.21-405x341.png",
               "class": "mbr-figure__img",
-              "width": 600
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -343,7 +349,7 @@
             "showCaption": "noCaption",
             "showText": false,
             "showButton": true,
-            "paddingTop": "0",
+            "paddingTop": "2",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -421,7 +427,7 @@
             "showMeta": true
           },
           "title": "DESCUENTOS EN SAN PEDRO DE ATACAMA🏜",
-          "meta": "Si te gusta algún descuento, acércate al lugar, presenta tu <br>grupo de whatsapp y obtén el beneficio",
+          "meta": "Si te gusta algún descuento, acércate al lugar, presenta tu grupo de whatsapp y obtén el beneficio",
           "_tags": [
             "Theme"
           ],
@@ -774,7 +780,7 @@
             "showMeta": true
           },
           "title": "DESCUENTOS EN CUSCO / MACHUPICCHU⛰",
-          "meta": "Si te gusta algún descuento, acércate al lugar, presenta tu <br>grupo de whatsapp y obtén el beneficio",
+          "meta": "Si te gusta algún descuento, acércate al lugar, presenta tu grupo de whatsapp y obtén el beneficio",
           "_tags": [
             "Theme"
           ],
