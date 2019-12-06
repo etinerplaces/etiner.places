@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "etiner-places",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -9,7 +9,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.5.2",
-    "uniqCompNum": 32,
+    "uniqCompNum": 35,
     "versionPublish": "4.5.2"
   },
   "pages": {
@@ -28,7 +28,7 @@
             "showMeta": true
           },
           "title": "Descuentos exclusivo para viajer@s Etiner💸",
-          "meta": "Sólo muestra tu grupo de whatsapp Etiner al momento de llegar al lugar <br>y te harán efectivo el beneficio ☝🏽",
+          "meta": "Sólo muestra tu grupo de WhatsApp Etiner al llegar y obtén tu beneficio ☝🏽",
           "_tags": [
             "Theme"
           ],
@@ -144,13 +144,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logov3-naranjo-593x128.png",
+              "src": "@PROJECT_PATH@/assets/images/etiner-place-320x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
@@ -426,8 +425,8 @@
           "_params": {
             "showMeta": true
           },
-          "title": "DESCUENTOS EN SAN PEDRO DE ATACAMA🏜",
-          "meta": "Si te gusta algún descuento, acércate al lugar, presenta tu grupo de whatsapp y obtén el beneficio",
+          "title": "BENEFICIOS EN SAN PEDRO DE ATACAMA🏜",
+          "meta": "Sólo muestra tu grupo de WhatsApp Etiner al llegar y obtén tu beneficio",
           "_tags": [
             "Theme"
           ],
@@ -464,9 +463,9 @@
             "showTitle": true,
             "showMeta": false,
             "showCaption": "noCaption",
-            "showText": true,
+            "showText": false,
             "showButton": false,
-            "paddingTop": 3,
+            "paddingTop": "3",
             "paddingBottom": 3,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/screen-shot-2019-11-30-at-23.58.49-912x498.png",
@@ -482,7 +481,7 @@
             "overlayColor": "#28324e",
             "overlayOpacity": "0.2"
           },
-          "title": "LA CASONA",
+          "title": "1. LA CASONA",
           "text": "<p><b><i>PIsco Sour de regalo en el consumo</i></b></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
@@ -506,6 +505,89 @@
           ],
           "_name": "map1",
           "_anchor": "map1-i"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "Beneficio: Un pisco sour gratis 🥂",
+          "meta": "En el consumo dentro del restaurant",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-w"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://www.google.com/maps/dir/?api=1&amp;destination=tacontento+mexico+city\" data-toolbar=\"-mbrBtnMove\">¡VAMOS!</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-x"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff",
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/screen-shot-2019-12-01-at-00.07.45-939x566.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": "0.3"
+          },
+          "title": "2. CKUNZA TILAR",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-j"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "barros restaurante \nlicancabur\n",
+              "placeId": "ChIJZbkdDVd0qZYRZOwHZ8SSOlU",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-h"
         },
         {
           "_inherit": "msg-box3",
@@ -558,21 +640,6 @@
           "_anchor": "content5-g"
         },
         {
-          "_params": {
-            "googleMap": {
-              "address": "barros restaurante \nlicancabur\n",
-              "placeId": "ChIJZbkdDVd0qZYRZOwHZ8SSOlU",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map1",
-          "_anchor": "map1-h"
-        },
-        {
           "_inherit": "dropdown-menu",
           "_params": {
             "logo": true,
@@ -611,7 +678,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logov3-naranjo-593x128.png",
+              "src": "@PROJECT_PATH@/assets/images/etiner-place-320x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -623,69 +690,6 @@
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-c"
-        },
-        {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff",
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/screen-shot-2019-12-01-at-00.07.45-939x566.png",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": true,
-            "overlay": true,
-            "overlayColor": "#28324e",
-            "overlayOpacity": "0.3"
-          },
-          "title": "GALERÍA DE ARTESANOS \"NEVENKA\"",
-          "text": "15% de descuento en todas las artesanías",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "meta": "By John Smith posted July 30, 2015",
-          "_name": "content5",
-          "_anchor": "content5-j"
-        },
-        {
-          "_params": {
-            "googleMap": {
-              "address": "mercado blanco san pedro atacama",
-              "placeId": "ChIJTcIu0td1qZYRMQe5cmEy5_E",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map1",
-          "_anchor": "map1-k"
         },
         {
           "_styles": {
@@ -965,7 +969,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logov3-naranjo-593x128.png",
+              "src": "@PROJECT_PATH@/assets/images/etiner-place-320x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",

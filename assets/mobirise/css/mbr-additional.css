@@ -54,6 +54,18 @@
 #content5-f .mbr-article P {
   text-align: center;
 }
+#content5-j .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-j .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-j .mbr-article {
+  color: #fff;
+  text-align: center;
+}
 #content5-g .mbr-header .mbr-header__text {
   text-align: center;
   color: #fff;
@@ -87,18 +99,6 @@
 }
 #dropdown-menu-2btn-c .navbar-toggler {
   color: #28324e;
-}
-#content5-j .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #fff;
-}
-#content5-j .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#content5-j .mbr-article {
-  color: #fff;
-  text-align: center;
 }
 #msg-box3-l .mbr-header .mbr-header__text {
   text-align: center;
