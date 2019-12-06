@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "etiner-places",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -52,7 +52,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/1-2000x1328.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/8-2000x1328.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -494,8 +494,8 @@
         {
           "_params": {
             "googleMap": {
-              "address": "la casona san pedro de atacama",
-              "placeId": "ChIJNf9H5b51qZYRp6mRkrIREDU",
+              "address": "la chinampa mexico city",
+              "placeId": "ChIJn_S7ejX_0YUR1HhVfafvFLs",
               "state": "ok",
               "stateDetails": ""
             }
