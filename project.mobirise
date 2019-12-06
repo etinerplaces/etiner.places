@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "etiner-places",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -52,7 +52,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/12-2000x1328.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/1-2000x1328.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -481,7 +481,7 @@
             "overlayColor": "#28324e",
             "overlayOpacity": "0.2"
           },
-          "title": "1. LA CASONA",
+          "title": "1. LA CHINAMPA",
           "text": "<p><b><i>PIsco Sour de regalo en el consumo</i></b></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
@@ -519,7 +519,7 @@
           "_anchor": "header3-w"
         },
         {
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://www.google.com/maps/dir/?api=1&amp;destination=tacontento+mexico+city\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">¡VAMOS!</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://www.google.com/maps/dir/?api=1&amp;destination=la+chinampa+mexico-city\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">¡VAMOS!</a> ",
           "_tags": [
             "Theme"
           ],
