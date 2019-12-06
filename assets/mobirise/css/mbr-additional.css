@@ -24,10 +24,6 @@
 #dropdown-menu-2btn-0 .navbar-toggler {
   color: #28324e;
 }
-#header3-9 H3 {
-  text-align: center;
-  color: #28324e;
-}
 #msg-box3-b .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -38,6 +34,12 @@
   text-align: center;
 }
 #header3-e P {
+  text-align: center;
+}
+#msg-box3-13 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-13 .mbr-header .mbr-header__subtext {
   text-align: center;
 }
 #content5-f .mbr-header .mbr-header__text {
@@ -54,6 +56,15 @@
 #content5-f .mbr-article P {
   text-align: center;
 }
+#msg-box3-14 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-14 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-14 .mbr-article P {
+  text-align: center;
+}
 #content5-j .mbr-header .mbr-header__text {
   text-align: center;
   color: #fff;
@@ -64,6 +75,81 @@
 }
 #content5-j .mbr-article {
   color: #fff;
+  text-align: center;
+}
+#msg-box3-15 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-15 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-15 .mbr-article P {
+  text-align: center;
+}
+#content5-19 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-19 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-19 .mbr-article {
+  color: #fff;
+}
+#msg-box3-1f .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-1f .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-1f .mbr-article P {
+  text-align: center;
+}
+#content5-1a .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-1a .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-1a .mbr-article {
+  color: #fff;
+}
+#msg-box3-1g .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-1g .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-1g .mbr-article P {
+  text-align: center;
+}
+#content5-1b .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-1b .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-1b .mbr-article {
+  color: #fff;
+}
+#msg-box3-1h .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-1h .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-1h .mbr-article P {
+  text-align: center;
+}
+#msg-box3-16 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-16 .mbr-header .mbr-header__subtext {
   text-align: center;
 }
 #content5-g .mbr-header .mbr-header__text {
