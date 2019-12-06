@@ -519,7 +519,7 @@
           "_anchor": "header3-w"
         },
         {
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://www.google.com/maps/dir/?api=1&amp;destination=tacontento+mexico+city\" data-toolbar=\"-mbrBtnMove\">¡VAMOS!</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://www.google.com/maps/dir/?api=1&amp;destination=tacontento+mexico+city\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">¡VAMOS!</a> ",
           "_tags": [
             "Theme"
           ],
